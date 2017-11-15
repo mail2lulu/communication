@@ -1,0 +1,11 @@
+/Users/tataclassedge/projects/demos/walletDemo/communication2/platforms/android
+/Users/tataclassedge/projects/demos/walletDemo
+
+/Users/tataclassedge/projects/demos/walletDemo/communication2
+
+
+/**
+/Users/tataclassedge/projects/demos/walletDemo/communication2/communication.jks
+release both pass for keystore: gm+nick
+master pass: tce
+*/

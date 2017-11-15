@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "686170479566",
+    "firebase_url": "https://casariosportsapp.firebaseio.com",
+    "project_id": "casariosportsapp",
+    "storage_bucket": "casariosportsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686170479566:android:116ae8af6c69c228",
+        "android_client_info": {
+          "package_name": "com.crsa.communication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686170479566-9t5rdf5hujoh1vjcg3rt1074djcrcfun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGH8GEB98vZElxMOxlKpzsSGGp7UbpTyE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
